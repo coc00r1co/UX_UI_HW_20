@@ -1,0 +1,77 @@
+body {
+    background-color: #FFF7C9;
+    width: 90%;
+    margin: auto;
+    font-family: "Work Sans", sans-serif;
+}
+
+.nav-pills .nav-link {
+    border-radius: 0.25rem;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+a {
+    color: #001CCC;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.jumbotron-fluid {
+    background-color: blue;
+}
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.starlings {
+    display: flex;
+    align-items: center;
+}
+
+.starlings img {
+    /* height: auto; */
+    width:1.4rem;
+    padding: 3%;
+    color: #001CCC;
+}
+
+.logo-link {
+    text-decoration: none;
+    color: #001CCC;
+}
+
+.navigation-wrap {
+    float: end;
+}
+
+.navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    align-items: center;
+}
+
+.display-4 {
+    color: white;
+    font-family: "Work Sans", sans-serif;
+}
+
+.lead {
+    color: white;
+    font-weight:400; 
+}
+.overview-container .row {
+    padding: 3%;
+}
+
